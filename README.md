@@ -4,4 +4,8 @@ I am learning git though my EPCC Work Experience.
 
 ## First Day 
 
-I learnt a little about the bash shell and git.
+I learned a little about the bash shell and git.
+
+## Second Day
+
+I will go see some big computers at the ACF. 
